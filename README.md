@@ -2,4 +2,5 @@
 
 Olá! Bem vindo ao meu livro de receitas :wave:
 
-- receita (qualquer)
+- Strogonoff de Frango
+- Lasanha de Camarão
